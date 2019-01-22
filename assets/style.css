@@ -21,3 +21,7 @@
                 h1{
                     text-align: center;
                 }
+
+			.brand-logo center{
+					line-height: 79px !important;
+				}
