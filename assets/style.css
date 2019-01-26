@@ -54,11 +54,10 @@ h1 {
 
 
 
-/* p {
+p {
+	text-indent: 50px;
 	
-	margin-top: 60px;
-	margin-left: 98px;
-} */
+}
 .circle.responsive-img
  {
 	widows: 300px;
